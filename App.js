@@ -6,7 +6,6 @@ export default function App() {
   return (
     <View style={styles.container}>
       <Text>Open1 / close </Text>
-      <Text>Open1 / close </Text>
       <StatusBar style="auto" />
 
     </View>
